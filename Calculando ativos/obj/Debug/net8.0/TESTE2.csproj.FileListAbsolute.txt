@@ -1,0 +1,14 @@
+C:\Users\eloyd\Documents\TESTE2\obj\Debug\net8.0\TESTE2.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\eloyd\Documents\TESTE2\obj\Debug\net8.0\TESTE2.AssemblyInfoInputs.cache
+C:\Users\eloyd\Documents\TESTE2\obj\Debug\net8.0\TESTE2.AssemblyInfo.cs
+C:\Users\eloyd\Documents\TESTE2\obj\Debug\net8.0\TESTE2.csproj.CoreCompileInputs.cache
+C:\Users\eloyd\Documents\TESTE2\bin\Debug\net8.0\TESTE2.exe
+C:\Users\eloyd\Documents\TESTE2\bin\Debug\net8.0\TESTE2.deps.json
+C:\Users\eloyd\Documents\TESTE2\bin\Debug\net8.0\TESTE2.runtimeconfig.json
+C:\Users\eloyd\Documents\TESTE2\bin\Debug\net8.0\TESTE2.dll
+C:\Users\eloyd\Documents\TESTE2\bin\Debug\net8.0\TESTE2.pdb
+C:\Users\eloyd\Documents\TESTE2\obj\Debug\net8.0\TESTE2.dll
+C:\Users\eloyd\Documents\TESTE2\obj\Debug\net8.0\refint\TESTE2.dll
+C:\Users\eloyd\Documents\TESTE2\obj\Debug\net8.0\TESTE2.pdb
+C:\Users\eloyd\Documents\TESTE2\obj\Debug\net8.0\TESTE2.genruntimeconfig.cache
+C:\Users\eloyd\Documents\TESTE2\obj\Debug\net8.0\ref\TESTE2.dll
